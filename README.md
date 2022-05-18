@@ -9,7 +9,7 @@ This is a demo project and not published to hex.pm. You can install it with a `g
 ```elixir
 def deps do
   [
-    {:not_ready_cell, git: "https://github.com/sdball/not_ready_cell.git"}
+    {:not_ready_cell, git: "https://github.com/sdball/not_ready_cell"}
   ]
 end
 ```
