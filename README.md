@@ -1,21 +1,15 @@
 # NotReadyCell
 
-**TODO: Add description**
+This is not a real smart cell. But it is a **working** smart cell. I claim it's essentially the most minimial smart cell you can write. Tests included!
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `not_ready_cell` to your list of dependencies in `mix.exs`:
+This is a demo project and not published to hex.pm. You can install it with a `git` declaration.
 
 ```elixir
 def deps do
   [
-    {:not_ready_cell, "~> 0.1.0"}
+    {:not_ready_cell, git: "https://github.com/sdball/not_ready_cell.git"}
   ]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/not_ready_cell>.
-
